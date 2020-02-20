@@ -7,10 +7,15 @@ let progress=document.getElementById("progress");
 
 
 
-
 let doGame=function(){
-    let count=1;
-    
+    let count;
+    for(count; count>4; count+1){
+        alert("dfg");
+
+        alert(count);
+
+
+    }
 
 
 
